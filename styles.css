@@ -254,7 +254,7 @@ nav a:hover::after {
 .hero-text {
     flex: 1;
     width: 50%;
-    padding-left: 2.5rem;
+    padding-inline: 2.5rem;
 }
 
 .hero-text h1 {
@@ -516,6 +516,7 @@ section {
     align-items: center;
     align-items: center;
     justify-content: space-around;
+    gap: 1rem;
 }
 .highlight-item{
     display: flex;
@@ -1279,4 +1280,5 @@ body.dark-theme .contact {
         width: 32px;
         height: 32px;
     }
+
 }
