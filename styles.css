@@ -233,7 +233,7 @@ nav a:hover::after {
 .hero-text {
     flex: 1;
     width: 50%;
-    padding-left: 2.5rem;
+    padding-inline: 2rem;
 }
 
 .hero-text h1 {
@@ -907,3 +907,4 @@ body.dark-theme .contact-details a {
         height: 32px;
     }
 }
+
