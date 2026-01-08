@@ -366,6 +366,7 @@ section {
 .highlight-item{
     display: flex;
     flex-direction: column;
+    padding: 1rem;
 }
 
 /* Modern Skills Section */
@@ -907,4 +908,5 @@ body.dark-theme .contact-details a {
         height: 32px;
     }
 }
+
 
